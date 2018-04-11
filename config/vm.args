@@ -1,0 +1,7 @@
+-sname pevm_bench
+
+-setcookie pevm_bench_cookie
+
++stbt db
++K true
++A30
